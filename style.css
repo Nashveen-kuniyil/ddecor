@@ -1,0 +1,602 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Barlow", sans-serif;
+    box-sizing: border-box;
+}
+
+
+
+#dec{
+    position:relative;
+    bottom:500px;
+  right: 220px;
+    width: 1510px;
+    padding: 5px;
+    height: 100px;
+   border-style:solid;
+   border-left: 0cap;
+   border-right:0cap;
+   border-top: 0cap;
+}
+
+#dec1{
+    width: 1510px;
+    position: relative;
+    bottom:500px;
+  right: 220px;
+  height: 45px;
+  border-style:solid;
+  border-left: 0cap;
+  border-right:0cap;
+  border-top: 0cap;
+  
+}
+
+
+
+#dec2{
+    width: 1510px;
+    position:relative;
+    bottom:500px;
+  right: 220px;
+  height: 45px;
+  
+  border-style:solid;
+  border-left: 0cap;
+  border-right:0cap;
+  border-top: 0cap;
+  border-bottom: 0cap;
+  border: 5px;
+}
+
+#eighth #dec{
+    border-left: 0cap;
+    border-right:0cap;
+    border-top: 0cap;
+    border-bottom: solid white;   
+}
+
+
+
+
+#eighth #dec1{
+    border-left: 0cap;
+    border-right:0cap;
+    border-top: 0cap;
+    border-bottom: solid white;   
+}
+
+
+
+
+
+#types{
+    gap: 30px;
+    margin-left: 50px;
+}
+
+
+
+#dec1in{
+    margin-left: 100px;
+
+}
+
+
+
+
+#btnsdssbs{
+    height: 44px;
+    width: 130px;
+    margin-top: -9px;
+    background-color: transparent;
+    border-color: transparent;
+   
+}
+
+#btnsdssbs:hover{
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+}
+
+#symbols{
+    margin-right: 270px;
+    gap: 35px;
+    margin-top: 10px;
+}
+
+
+#decorlogo{
+    margin-left: 120px;
+}
+
+
+
+#bantext{
+    position: absolute;
+bottom: 200px;  
+left: -90px;  
+}
+
+#banbtn{
+    height: 50px;
+    width: 110px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border-bottom: 0cap;
+    border-top: 0cap;
+    border-left: 0cap;
+    border-right: 0cap;
+}
+
+#eighth #banbtn{
+    background-color: white;
+    color: black;
+}
+
+#eighth #banbtn:hover{
+    color: black;
+    background-color: beige; 
+}
+
+
+
+#banbtn:hover{
+    color: black;
+    background-color: beige;
+}
+
+
+#banbtn1{
+    height: 50px;
+    width: 140px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+#banbtn1:hover{
+    color: black;
+    background-color: beige;
+}
+
+#categories img{
+    border-radius: 10px;
+}
+
+#categoriesbtn{
+    width: 445px;
+    height: 100px;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 33px;
+    left: 46px;
+   border-top: 0cap;
+   border-right: 0cap;
+   border-bottom: 0cap;
+   border-left: 0cap;
+}
+
+
+
+ 
+.col-4:hover{
+    
+#categoriesbtn{
+
+    background: transparent;
+    background-color: black;
+    opacity: 0.8;
+     color: white;
+    bottom: 70px;
+    transition: 0.7s;
+    scale: 1.05;
+    border-radius: 0%;
+ 
+     p{
+         color: white;
+     }
+ 
+     h3{
+         color: white;
+     }
+ }
+
+} 
+
+ 
+.col-4:hover{
+    
+    #categoriesbtn0{
+    
+        background: transparent;
+        background-color: black;
+        opacity: 0.8;
+         color: white;
+        bottom: 70px;
+        transition: 0.7s;
+        scale: 1.05;
+        border-radius: 0%;
+
+         p{
+             color: white;
+         }
+     
+         h3{
+             color: white;
+         }
+     }
+    
+    } 
+
+
+     
+.col-4:hover{
+    
+    #categoriesbtn1{
+    
+        background: transparent;
+        background-color: black;
+        opacity: 0.8;
+         color: white;
+        bottom: 70px;
+        transition: 0.7s;
+        border-radius: 0%;
+        scale: 1.05;
+     
+         p{
+             color: white;
+         }
+     
+         h3{
+             color: white;
+         }
+     }
+    
+    } 
+
+
+
+#categoriesbtn p{
+    text-align: left;
+    margin-left: 20px;
+    color: grey;
+    
+}
+
+
+#categoriesbtn h4{
+    text-align: left;
+    margin-left: 20px;
+}
+
+
+#categoriesbtn h3{
+    position: absolute;
+    bottom: 30px;
+    left: 400px;
+    color: gray;
+}
+
+
+
+#categoriesbtn0{
+    width: 445px;
+    height: 100px;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 33px;
+    left:538px;
+   border-top: 0cap;
+   border-right: 0cap;
+   border-bottom: 0cap;
+   border-left: 0cap;
+}
+
+
+#categoriesbtn0 p{
+    text-align: left;
+    margin-left: 20px;
+    color: grey;
+    
+}
+
+
+#categoriesbtn0 h4{
+    text-align: left;
+    margin-left: 20px;
+}
+
+
+#categoriesbtn0 h3{
+    position: absolute;
+    bottom: 30px;
+    left: 400px;
+    color: gray;
+}
+
+
+
+#categoriesbtn1{
+    width: 445px;
+    height: 100px;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 33px;
+    left: 1027px;
+   border-top: 0cap;
+   border-right: 0cap;
+   border-bottom: 0cap;
+   border-left: 0cap;
+}
+
+
+#categoriesbtn1 p{
+    text-align: left;
+    margin-left: 20px;
+    color: grey;
+    
+}
+
+
+#categoriesbtn1 h4{
+    text-align: left;
+    margin-left: 20px;
+}
+
+#categoriesbtn1 h3{
+    position: absolute;
+    bottom: 30px;
+    left: 400px;
+    color: gray;
+}
+
+
+
+#arrivals .col-4 button{
+    background-color: black;
+    color: white;
+    width: 590px;
+    border-radius: 4px;
+    margin-top: 5px;
+    margin-left: 155px;
+    border-top: 0cap;
+    border-bottom: 0cap;
+    border-left: 0cap;
+    border-right: 0cap;
+}
+
+#arrivals .col-4 button:hover{
+    background-color: beige;
+    color: black;
+    
+}
+
+#arrivals .col-4 h5{
+    margin-left: 155px;
+    margin-top: 15px;
+}
+
+#arrivals .col-4 p{
+    margin-left: 155px;
+}
+
+#arrivals .col-4 button p{
+    padding-right: 124px;
+    padding-top: 12px;
+    font-size: 15px;
+}
+
+#arrival{
+    height: 802px;
+    margin-left: 150px;
+    
+   
+}
+
+.card{
+  
+    width: 310px;
+    margin-bottom: 10px;
+    border-color: white;
+    
+}
+
+
+#cardimg{
+    height: 315px;
+    
+}
+
+#card2{
+  margin-left: -65px;
+}
+
+#atcbn{
+    background-color: black;
+    color: white;
+    width: 135px;
+    height: 50px;
+    border-radius: 5px;
+    border-bottom: 0cap;
+    border-top: 0cap;
+    border-left: 0cap;
+    border-right: 0cap;
+    opacity: 0;
+}
+
+
+#hms{
+    position: absolute;
+    bottom: 151px;
+    left: 158.5px;
+    height: 50px;
+    width: 150px;
+    background-color:white;
+    padding: 20px;
+    opacity: 0;
+   
+}
+
+
+#hms1{
+    position: absolute;
+    bottom: 149px;
+    left: 158.5px;
+    height: 50px;
+    width: 150px;
+    background-color:white;
+    padding: 18px;
+    opacity: 0;
+   
+}
+
+
+
+
+.card:hover{
+
+    z-index: 1;
+    box-shadow:2px 12px 12px  rgb(219, 219, 219);
+    
+    
+#atcbn{
+    background-color: black;
+    color: white;
+    width: 135px;
+    height: 50px;
+    border-radius: 5px;
+    border-bottom: 0cap;
+    border-top: 0cap;
+    border-left: 0cap;
+    border-right: 0cap;
+    opacity: 1;
+   
+}
+
+#hms{
+    position: absolute;
+    bottom: 151px;
+    left: 158.5px;
+    height: 50px;
+    width: 150px;
+    background-color: white;
+    padding: 20px;
+    opacity: 1;
+    
+    cursor: pointer;
+
+}
+
+
+#hms1{
+    position: absolute;
+    bottom: 149px;
+    left: 158.5px;
+    height: 50px;
+    width: 150px;
+    background-color:white;
+    padding: 18px;
+    opacity: 1;
+   
+}
+
+
+
+#atcbn:hover{
+    background-color: beige;
+    color: black;
+}
+   
+    
+
+
+}
+
+
+
+#mod{
+    font-size: 18px;
+}
+
+#goes{
+    text-decoration: line-through;
+    color: black;
+    margin-left: 44px;
+}
+
+
+
+#footer{
+    background-color: #9b9180;
+    color: white;
+}
+
+#footer ul li{
+    font-size: 14px;
+}
+
+#footer #footericon .col-4 button{
+ width: 30px;
+ height: 30px;
+    background-color: white;
+border-radius: 4px;
+border-top: 0cap;
+border-left: 0cap;
+border-bottom: 0cap;
+border-right: 0cap;
+}
+
+#footer #footericon .col-4 button i{
+    color: #9b9180;
+}
+
+#pin{
+    margin-left: -50px;
+}
+
+#insta{
+    margin-left: -25px;
+}
+
+#footerdecor{
+    margin-left: -10px;
+}
+
+#ftrinp{
+    width: 510px;
+    height: 45px;
+    border-radius: 4px;
+    border-bottom: 0cap;
+    border-top: 0cap;
+    border-left: 0cap;
+    border-right: 0cap;
+    padding: 20px;
+    border-top-right-radius: 0%;
+    border-bottom-right-radius: 0%;
+    margin-bottom: 100px;
+    margin-top: 15px;
+    
+}
+
+#inpjoin{
+    height: 45px;
+background-color: white;
+width: 120px;
+margin-left: -4px;
+border-radius: 4px;
+border-bottom: 0cap;
+border-top: 0cap;
+border-right: 0cap;
+border-top-left-radius: 0%;
+border-bottom-left-radius: 0%;
+border-color: #efede8;
+}
+
+#cpy{
+    margin-left: -40px;
+    margin-top: 45px;
+}
